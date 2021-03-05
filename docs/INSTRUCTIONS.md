@@ -1,4 +1,4 @@
-# Zoek een boek bij de OBA op experimentele wijze
+# Zoek op experimentele wijze een boek in de OBA collectie
 
 De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
@@ -13,7 +13,7 @@ Dit is een {niveau van de opdracht} die je {individueel, in team} uitgevoerd voo
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-Met de OB-API kunen alle boeken worden doorzocht. In de API staan naast de titel en de schrijver ook hoeveel pagina's een boek heeft, of  het een moeilijk of makkelijk boek is, het genre, onderwerp en zelfs de kleur van de kaft.
+Met de OB-API kunen alle boeken in de collectie worden opgezochht. In de API staan naast de titel en de schrijver ook hoeveel pagina's een boek heeft, of  het een moeilijk of makkelijk boek is, het genre, onderwerp en zelfs de kleur van de kaft.
 
 Ontwerp voor de OBA een zoekformulier waarmee je op een andere manier dan normaal een boek kan zoeken.
 
