@@ -1,7 +1,6 @@
 # Zoek op experimentele wijze een boek in de OBA collectie
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht Zoek-op-experimentele-wijze-een-boek-in-de-OBA-collectie leer je met externe data een zoekformulier ontwerpen.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
